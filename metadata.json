@@ -1,0 +1,6 @@
+{
+  "name": "TacticalVision AI - Football Analytics & Storytelling Studio",
+  "description": "Hastalık Bu Futbol tarzı taktiksel hikaye anlatımı, maç verisi analitiği, bilgisayarlı görü ve otomatik video kurgusu stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
